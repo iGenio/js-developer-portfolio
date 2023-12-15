@@ -1,7 +1,7 @@
+const url = 'https://raw.githubusercontent.com/iGenio/js-developer-portfolio/main/data/profile.json'
 
-async function fetchProfileData() {
-    const url = 'https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/profile.json';
-    const response = await fetch(url)
-    const profileData = await response.json()
+async function buscarArquivo (url) {
+    const file = await fetch(url)
+    const profileData = await file.json()
     return profileData
 }

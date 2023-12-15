@@ -1,8 +1,9 @@
 {
-  "nome": "Eugênio Marques",
-  "titulo": "Product Design na YouX Group",
-  "localidade": "Lavras - MG",
-  "telefone": "(35) 99211-0260",
+  "name": "Eugênio Marques",
+  "photo": "https://avatars.githubusercontent.com/u/79340794?v=4",
+  "job": "Product Design na YouX Group",
+  "location": "Lavras - MG",
+  "phone": "(35) 99211-0260",
   "email": "genio.silvam@gmail.com",
   "skills": {
     "hardSkills": [
